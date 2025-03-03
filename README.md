@@ -15,7 +15,7 @@
 * Installation & configuration of Selenium with JavaScript.
 * Writing automation scripts for web testing using element locators (XPath, CSS Selector, ID, Name, Class).
 * Using assertions for validation, interacting with web elements (click, sendKeys, getText, etc.).
-* test framework dengan beberapa features: Headless Mode, Cross Browser Testing, Test hooks dan annotation.
+* test framework with the following features: Headless Mode, Cross Browser Testing, Test hooks dan annotation.
 *	Page Object Model Implementation and Taking Screenshots in Selenium.
 
 #### - Load Testing with Apache JMeter:
