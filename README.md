@@ -1,6 +1,8 @@
 ## Mini Bootcamp QA Engineer, Digital Skola 
 (January 2025 – February 2025)
 
+### - [Certificate](https://drive.google.com/file/d/1bRUPxp3-Te4xkDBqw1ftoexzfn-VOf9H/view?usp=sharing)
+### - [Report](https://drive.google.com/file/d/1eWxq63CSXCIMzz37uXMGsOro8TpMqwwQ/view?usp=sharing)
 ### Covered modules:
 #### - Manual Test Case Creation: Writing positive and negative test cases, documenting test cases using spreadsheets.
 #### -  JavaScript for QA: Programming fundamentals for test automation.
